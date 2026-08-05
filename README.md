@@ -1,15 +1,16 @@
 # Atlas Windows tester downloads
 
-Public download links for **invited founder testers**.
+Public first-install packages for invited testers.
 
-## Latest first-install package
+## CEO / first PC — use this
 
-**[Download Atlas-Windows-Founder-0.4.53.exe](https://github.com/Navarroa5598/Atlas-Windows-Testers/releases/download/windows-founder-v0.4.53/Atlas-Windows-Founder-0.4.53.exe)**
+**[Download Atlas-Windows-Founder-0.4.55.exe](https://github.com/Navarroa5598/Atlas-Windows-Testers/releases/download/windows-founder-v0.4.55/Atlas-Windows-Founder-0.4.55.exe)** (~474 MB)
 
-- Full first install (~474 MB, includes runtime)
-- Not the Microsoft Store build
-- SmartScreen may warn — choose **More info → Run anyway**
+1. Download that file  
+2. Run it (SmartScreen → More info → Run anyway)  
+3. Wait for setup to finish  
+4. Open **Atlas** from the desktop
 
-If install fails with **runtime installation failed**, close Atlas, free disk space, briefly pause antivirus, and run the **Founder** installer again (not a small Updater).
+Do **not** use a small “Updater” installer on a machine that has never had Atlas.
 
-Private source and private release rings stay in other repos.
+Release page: https://github.com/Navarroa5598/Atlas-Windows-Testers/releases/tag/windows-founder-v0.4.55
